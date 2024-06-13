@@ -40,7 +40,6 @@ I'm Sanya Patel, a passionate and dedicated Computer Science and Engineering stu
 - **HackerRank:** Attained the highest 5 Star rating in problem-solving, demonstrating exceptional proficiency in tackling diverse problem sets.
 
 ## 📞 Contact Information
-- Phone: (+91) 80812-97109
 - Email: [sanyapatel1620@gmail.com](mailto:sanyapatel1620@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/sanya-patel-94a995228/)
 - [GitHub](https://github.com/Sanya-Patel)

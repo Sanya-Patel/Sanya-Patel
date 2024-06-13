@@ -3,20 +3,18 @@
 I'm Sanya Patel, a passionate and dedicated Computer Science and Engineering student, currently pursuing my B.Tech at Pranveer Singh Institute Of Technology. With a strong foundation in both front-end and back-end technologies, I enjoy creating innovative solutions to real-world problems.
 
 ## 👩‍💻 About Me
-**Education:**
-- B.Tech in Computer Science and Engineering (2021-2025)
-- CGPA: 8.6/10
-
-**Achievements:**
-- **GATE 2024:** Qualified Graduate Aptitude Test in Engineering (GATE) 2024
+- **🎓 Education:** B.Tech in Computer Science and Engineering (2021-2025) at Pranveer Singh Institute Of Technology with CGPA of 8.6/10
+- **🌟 GATE 2024:** Qualified Graduate Aptitude Test in Engineering (GATE) 2024
+- **💼 CPP Internship:** Worked at Codsoft, gaining valuable experience in C++ development.
+- **🌱 Currently Learning:** Deepening my knowledge in full-stack development and machine learning.
 
 ## 💻 Technical Skills
-**Programming Languages:** C, C++, Python  
-**FrontEnd:** HTML, CSS, TailwindCSS, Bootstrap, JavaScript, React  
-**BackEnd:** Node.js, Express.js  
-**Web Technology:** Socket.IO  
-**Developer Tools:** Postman, VS Code, GitHub  
-**Database:** SQL, MongoDB  
+- **Programming Languages:** C, C++, Python  
+- **FrontEnd:** HTML, CSS, TailwindCSS, Bootstrap, JavaScript, React  
+- **BackEnd:** Node.js, Express.js  
+- **Web Technology:** Socket.IO  
+- **Developer Tools:** Postman, VS Code, GitHub  
+- **Database:** SQL, MongoDB  
 
 ## 📂 Projects
 ### Real-Time Chat Application (MERN)
@@ -42,6 +40,7 @@ I'm Sanya Patel, a passionate and dedicated Computer Science and Engineering stu
 - **HackerRank:** Attained the highest 5 Star rating in problem-solving, demonstrating exceptional proficiency in tackling diverse problem sets.
 
 ## 📞 Contact Information
+- Phone: (+91) 80812-97109
 - Email: [sanyapatel1620@gmail.com](mailto:sanyapatel1620@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/sanya-patel-94a995228/)
 - [GitHub](https://github.com/Sanya-Patel)

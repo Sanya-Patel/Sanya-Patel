@@ -1,6 +1,6 @@
-# Sanya Patel
+# Hi there! 👋
 
-Hi there! I'm Sanya Patel, a passionate and dedicated Computer Science and Engineering student, currently pursuing my B.Tech at Pranveer Singh Institute Of Technology. With a strong foundation in both front-end and back-end technologies, I enjoy creating innovative solutions to real-world problems.
+I'm Sanya Patel, a passionate and dedicated Computer Science and Engineering student, currently pursuing my B.Tech at Pranveer Singh Institute Of Technology. With a strong foundation in both front-end and back-end technologies, I enjoy creating innovative solutions to real-world problems.
 
 ## 👩‍💻 About Me
 **Education:**

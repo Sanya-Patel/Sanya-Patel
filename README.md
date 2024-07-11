@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Sanya Patel, a passionate and dedicated Computer Science and Engineering student, currently pursuing my B.Tech at Pranveer Singh Institute Of Technology. With a strong foundation in both front-end and back-end technologies, I enjoy creating innovative solutions to real-world problems.
+I'm **Sanya Patel**, a passionate and dedicated Computer Science and Engineering student, currently pursuing my B.Tech at Pranveer Singh Institute Of Technology. With a strong foundation in both front-end and back-end technologies, I enjoy creating innovative solutions to real-world problems.
 
 ## 👩‍💻 About Me
 - **🎓 Education:** B.Tech in Computer Science and Engineering (2021-2025) at Pranveer Singh Institute Of Technology with CGPA of 8.6/10
@@ -18,21 +18,21 @@ I'm Sanya Patel, a passionate and dedicated Computer Science and Engineering stu
 
 ## 📂 Projects
 ### Real-Time Chat Application (MERN)
-- **Seamless Communication:** Developed a real-time chat platform enabling instant interaction. Integrated WebSocket technology, reducing message latency by 50%.
-- **Enhanced Security:** Implemented robust authentication, leading to a 99.9% decrease in unauthorized access attempts.
-- **Optimal Data Management:** Utilized MongoDB to manage a database of over 1 million user profiles and messages, reducing query response time by 40%.
-- **User-Centric Design:** Designed an intuitive interface to enhance user experience and navigation.
+- **💬 Seamless Communication:** Developed a real-time chat platform enabling instant interaction. Integrated WebSocket technology, reducing message latency by 50%.
+- **🔐 Enhanced Security:** Implemented robust authentication, leading to a 99.9% decrease in unauthorized access attempts.
+- **📊 Optimal Data Management:** Utilized MongoDB to manage a database of over 1 million user profiles and messages, reducing query response time by 40%.
+- **👩‍🎨 User-Centric Design:** Designed an intuitive interface to enhance user experience and navigation.
 
 ### Potato Disease Classifier - Enhancing Crop Management
-- Developed TensorFlow-based deep learning model achieving 96% accuracy for early blight and late blight detection.
-- Implemented advanced data preprocessing techniques, resulting in 30% reduction in model training time and 25% improvement in inference speed, aiding in real-time disease diagnosis and crop management.
+- **🌾 Developed TensorFlow-based deep learning model achieving 96% accuracy for early blight and late blight detection.
+- **🚀 Implemented advanced data preprocessing techniques, resulting in 30% reduction in model training time and 25% improvement in inference speed, aiding in real-time disease diagnosis and crop management.
 
 ### Innovative Web Projects Showcase
-- **Currency Converter**
-- **Email Validator**
-- **Password Manager**
-- **Portfolio Website**
-- **NPM Package**
+- **💱 Currency Converter**
+- **✉️ Email Validator**
+- **🔑 Password Manager**
+- **🌐 Portfolio Website**
+- **📦 NPM Package**
 
 ## 🧩 Problem Solving
 - **LeetCode:** Successfully solved 400+ algorithmic challenges. [Profile](https://leetcode.com/u/sanya1620/)
@@ -41,5 +41,5 @@ I'm Sanya Patel, a passionate and dedicated Computer Science and Engineering stu
 
 ## 📞 Contact Information
 - Email: [sanyapatel1620@gmail.com](mailto:sanyapatel1620@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/sanya-patel-94a995228/)
-- [GitHub](https://github.com/Sanya-Patel)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanya-patel-94a995228/)
+- [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white)](https://github.com/Sanya-Patel)

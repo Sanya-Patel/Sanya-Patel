@@ -39,6 +39,11 @@ I'm **Sanya Patel**, a passionate and dedicated Computer Science and Engineering
 - **GeeksforGeeks:** Resolved 100+ problems. [Profile](https://www.geeksforgeeks.org/user/sanyapatfk2b/)
 - **HackerRank:** Attained the highest 5 Star rating in problem-solving, demonstrating exceptional proficiency in tackling diverse problem sets.
 
+## 📊 GitHub Stats
+[![Sanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanya-Patel&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanya-Patel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📞 Contact Information
 - Email: [sanyapatel1620@gmail.com](mailto:sanyapatel1620@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanya-patel-94a995228/)

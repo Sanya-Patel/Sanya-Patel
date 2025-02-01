@@ -35,8 +35,8 @@ I'm **Sanya Patel**, a passionate and dedicated Computer Science and Engineering
 - **📦 NPM Package**
 
 ## 🧩 Problem Solving
-- **LeetCode:** Successfully solved 400+ algorithmic challenges. [Profile](https://leetcode.com/u/sanya1620/)
-- **GeeksforGeeks:** Resolved 100+ problems. [Profile](https://www.geeksforgeeks.org/user/sanyapatfk2b/)
+- **LeetCode:** Successfully solved 600+ algorithmic challenges. [Profile](https://leetcode.com/u/sanya1620/)
+- **GeeksforGeeks:** Resolved 200+ problems. [Profile](https://www.geeksforgeeks.org/user/sanyapatfk2b/)
 - **HackerRank:** Attained the highest 5 Star rating in problem-solving, demonstrating exceptional proficiency in tackling diverse problem sets.
 
 ## 📊 GitHub Stats
